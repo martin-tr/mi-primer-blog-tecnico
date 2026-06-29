@@ -22,8 +22,8 @@ Para solucionar el problema, apliqué los pasos de un análisis constructivo (ap
 
 ## ⚙️ Control de Versiones
 Registré la solución de este problema en mi repositorio público de GitHub:
-* **Enlace a mi repositorio:** [Ver mi repositorio aquí](https://github.com)
-* **Enlace a mis cambios (Commits):** [Ver mis commits aquí](https://github.com)
+* **Enlace a mi repositorio:** [Ver mi repositorio aquí](https://github.com/martin-tr/mi-primer-blog-tecnico/tree/main)
+* **Enlace a mis cambios (Commits):** [Ver mis commits aquí](https://github.com/martin-tr/mi-primer-blog-tecnico/commits/main/)
 
 ## 🤝 Reflexión: Aplicación de Feedback Radicalmente Sincero
 Durante este proceso, le mostré mi pantalla a un compañero de clase para pedirle ayuda. Él, de forma muy honesta y directa (**sinceridad radical**), me dijo que mi código estaba desordenado y que por eso no encontraba el error rápido. 
